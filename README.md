@@ -7,17 +7,15 @@ Este repositório contém um notebook Jupyter (`Classificacao_brasilia_PROD.ipyn
 ## Índice
 
 1. [Sobre o Projeto](#sobre-o-projeto)
-2. [Pré-requisitos](#pr%C3%A9-requisitos)
-3. [Instalação](#instala%C3%A7%C3%A3o)
-4. [Estrutura dos Dados](#estrutura-dos-dados)
-5. [Descrição do Notebook](#descri%C3%A7%C3%A3o-do-notebook)
-6. [Metodologia](#metodologia)
-7. [Resultados](#resultados)
-8. [Como Executar](#como-executar)
-9. [Salvar e Carregar Modelos](#salvar-e-carregar-modelos)
-10. [Contribuição](#contribui%C3%A7%C3%A3o)
-11. [Licença](#licen%C3%A7a)
-12. [Contato](#contato)
+3. [Pré-requisitos](#pr%C3%A9-requisitos)
+4. [Instalação](#instala%C3%A7%C3%A3o)
+5. [Estrutura dos Dados](#estrutura-dos-dados)
+6. [Descrição do Notebook](#descri%C3%A7%C3%A3o-do-notebook)
+7. [Metodologia](#metodologia)
+8. [Resultados](#resultados)
+9. [Como Executar](#como-executar)
+10. [Salvar e Carregar Modelos](#salvar-e-carregar-modelos)
+11. [Autores](#autores)
 
 ---
 
@@ -53,18 +51,20 @@ imbalanced-learn
 ## Instalação
 
 1. Clone este repositório:
-   ```bash
-git clone https://github.com/SEU_USUARIO/classificacao-brasilia.git
+```
+git clone https://github.com/joaoweslen/Classificacao_de_chuva_Brasilia.git
 cd classificacao-brasilia
 ```
+
 2. Crie e ative um ambiente virtual (opcional):
-   ```bash
+ ```
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 ```
+
 3. Instale as dependências:
-   ```bash
+```
 pip install -r requirements.txt
 ```
 
@@ -149,7 +149,7 @@ Consulte o notebook para visualizar plots de comparação e matrizes de confusã
 ## Como Executar
 
 1. Abra o Jupyter Notebook:
-   ```bash
+```bash
 jupyter notebook Classificacao_brasilia_PROD.ipynb
 ```
 2. Execute as células em ordem.  
