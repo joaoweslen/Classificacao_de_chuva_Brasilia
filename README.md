@@ -1,6 +1,6 @@
 # <img alt="Simbolo Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Classificação de Precipitação em Brasília
 
-Este repositório contém um notebook Jupyter (`Classificacao_brasilia_PROD.ipynb`) que realiza uma análise exploratória, pré-processamento de dados e treinamento de modelos de Machine Learning para classificar níveis de precipitação na cidade de Brasília (base de dados de 2001 a 2019 do INMET).
+Este repositório contém um Jupyter Notebook (`Classificacao_brasilia_PROD.ipynb`) que realiza uma análise exploratória, pré-processamento de dados e treinamento de modelos de Machine Learning para classificar níveis de precipitação na cidade de Brasília (base de dados de 2001 a 2019 do INMET).
 
 ---
 
