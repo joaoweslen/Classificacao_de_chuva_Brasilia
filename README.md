@@ -1,6 +1,6 @@
 # <img alt="Simbolo Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Classificação de Precipitação em Brasília
 
-Este repositório contém um Jupyter Notebook (`Classificacao_brasilia_PROD.ipynb`) que realiza uma análise exploratória, pré-processamento de dados e treinamento de modelos de Machine Learning para classificar níveis de precipitação na cidade de Brasília (base de dados de 2001 a 2019 do INMET).
+Este repositório contém um Jupyter Notebook que realiza uma análise exploratória, pré-processamento de dados e treinamento de modelos de Machine Learning para classificar níveis de precipitação na cidade de Brasília (base de dados de 2001 a 2019 do INMET).
 
 ---
 
@@ -36,24 +36,11 @@ O objetivo deste projeto é construir e avaliar modelos de classificação capaz
 - Python 3.8+  
 - Jupyter Notebook ou JupyterLab
 
-### Dependências (sugerido `requirements.txt`)
-
-```text
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-imbalanced-learn
-```
-
 ## Instalação
 
 1. Clone este repositório:
 ```
 git clone https://github.com/joaoweslen/Classificacao_de_chuva_Brasilia.git
-cd classificacao-brasilia
 ```
 
 2. Crie e ative um ambiente virtual (opcional):
@@ -87,7 +74,7 @@ As colunas principais incluem:
 
 ## Descrição do Notebook
 
-O notebook `Classificacao_brasilia_PROD.ipynb` está organizado em seções:
+O notebook está organizado em seções:
 
 1. **Importação de Bibliotecas**  
 2. **Leitura e Visualização Inicial dos Dados**  
